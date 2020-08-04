@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811660549381",
+    "firebase_url": "https://bename-hedwig.firebaseio.com",
+    "project_id": "bename-hedwig",
+    "storage_bucket": "bename-hedwig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811660549381:android:853dd340556e4207cfab6c",
+        "android_client_info": {
+          "package_name": "com.confront"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811660549381-usi8djjtcoiu6k7ijegpqe087pah5af2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.confront",
+            "certificate_hash": "44460861deecac5e544a5d07f12cef9fc65986e3"
+          }
+        },
+        {
+          "client_id": "811660549381-0mtet27lvooqg6jj9bmijp6c36tenqgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisVXaITkyngA9s1p61u05FgFfVJBDh8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811660549381-0mtet27lvooqg6jj9bmijp6c36tenqgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
